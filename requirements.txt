@@ -1,0 +1,9 @@
+jupyter-book
+jupytext
+matplotlib
+numpy
+ghp-import
+pandas
+seaborn
+matplotlib
+scikit-learn
